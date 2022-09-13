@@ -31,7 +31,7 @@ session_start();
 			</div>
 		  </div>
 			<div class="d-grid gap-2 col-6 mx-auto">
-				<button type="button" id="submit" class="btn sub_button">Sign in</button>
+				<button type="button" id="submit class="bg-primary btn sub_button">Sign in</button>
 			</div>  
 		</form>
 		</div>
